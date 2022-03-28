@@ -1,1 +1,1 @@
-# mxmintaka.github.io
+# homepage based on bootstrap
