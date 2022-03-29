@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="">
     <meta name="description" content="">
-    <meta name="author" content="Bill Chen">
+    <meta name="author" content="Xi Meng">
     <title>Hompage Template</title>
 
     <link href="figs/icon.svg" rel="icon">
@@ -19,7 +19,7 @@
 
     <nav class="navbar fixed-top navbar-expand-md">
       <div class="container">
-        <a class="navbar-brand" href="index.html">Bill's home</a>
+        <a class="navbar-brand" href="index.html">Mintaka's home</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <img src="figs/list.svg" alt="menu" width="30px">
         </button>
@@ -36,8 +36,8 @@
 
     <div id="headerbase">
       <div id="headerwrap">
-        <h1>Yingtian (Bill) Chen</h1>
-        <h3>PhD student at the University of Michigan Department of Astronomy</h3>
+        <h1>Xi (Molly) Meng</h1>
+        <h3>PhD candidate at the University of Michigan Department of Astronomy</h3>
       </div>
     </div>
 
@@ -45,7 +45,7 @@
       <div class="container">
         <div class="col-lg-10 offset-lg-1">
           <p>
-            I am a Ph.D. student at the <a rel="noopener noreferrer" target="_blank" href="https://lsa.umich.edu/astro">University of Michigan Department of Astronomy</a>, where I work with Prof. <a rel="noopener noreferrer" target="_blank" href="http://www-personal.umich.edu/~ognedin/">Oleg Gnedin</a>. Before coming to Michigan, I received my B.S. degree at <a rel="noopener noreferrer" target="_blank" href="http://www.phy.pku.edu.cn/">Peking University School of Physics</a> in Jul. 2020. My current research focuses on the formation and evolution of star clusters in cosmological context. <a rel="noopener noreferrer" target="_blank" href="research.html">Click here</a> to view my research in detail.
+            I am a Ph.D. student at the <a rel="noopener noreferrer" target="_blank" href="https://lsa.umich.edu/astro">University of Michigan Department of Astronomy</a>, where I work with Prof. <a rel="noopener noreferrer" target="_blank" href="http://www-personal.umich.edu/~ognedin/">Oleg Gnedin</a>. Before coming to Michigan, I received my B.S. degree at <a rel="noopener noreferrer" target="_blank" href="http://www.phy.pku.edu.cn/">Peking University School of Physics</a> in Jul. 2017. My current research focuses on the formation and evolution of star clusters in cosmological context. <a rel="noopener noreferrer" target="_blank" href="research.html">Click here</a> to view my research in detail.
           </p>
           <center>
             <a href="#" class="btn btn-outline-light" role="button">Curriculum Vitae</a>
@@ -63,19 +63,19 @@
           </div>
           <div class="col-lg-9">
             <p>
-              <t>Sep. 2020 - current</t><br/>
+              <t>Sep. 2017 - current</t><br/>
               - Ph.D. student in Astronomy<br/>
               @ <a rel="noopener noreferrer" target="_blank" href="https://lsa.umich.edu/astro">University of Michigan Department of Astronomy</a>, Ann Arbor, MI, USA 
             </p>
             <p>
-              <t>Sep. 2016 - Jul. 2020</t><br/>
+              <t>Sep. 2013 - Jul. 2017</t><br/>
               - B.S. in Physics (with honours)<br/>
               @ <a rel="noopener noreferrer" target="_blank" href="http://www.phy.pku.edu.cn/">Peking University School of Physics</a>, Beijing, China 
             </p>
             <p>
-              <t>Sep. 2010 - Jul. 2016</t><br/>
-              - Middle and High School<br/>
-              @ <a rel="noopener noreferrer" target="_blank" href="http://www.cefls.cn/">Chengdu Experimental Foreign Languages School</a>, Chengdu, Sichuan, China 
+              <t>Sep. 2010 - Jul. 2013</t><br/>
+              - High School<br/>
+              @ <a rel="noopener noreferrer" target="_blank" href="http://www.hzsdyfz.com.cn/">No.1 Middle School Affiliated to Central China Normal University</a>, Wuhan, Hubei, China 
             </p>
           </div>
         </div>
@@ -90,9 +90,9 @@
           </div>
           <div class="col-lg-9">
             <p>
-              <t>Jul. 2019 - Aug. 2019</t><br/>
-              - Visiting Researcher<br/>
-              @ <a rel="noopener noreferrer" target="_blank" href="https://space.mit.edu/">MIT Kavli Institute for Astrophysics and Space Research</a>, Cambridge, MA, USA
+              <t>Sep. 2015 - Dec. 2015</t><br/>
+              - Visiting Student<br/>
+              @ <a rel="noopener noreferrer" target="_blank" href="https://lsa.umich.edu/astro">University of Michigan Department of Astronomy</a>, Ann Arbor, MI, USA
             </p>
           </div>
         </div>
@@ -115,16 +115,48 @@
               <br/>
             </p>
             <p>
-              "Effects of initial density profiles on massive star cluster formation in giant molecular clouds"
+              "Reconstruction of the Density Power Spectrum from Quasar Spectra using Machine Learning"
               <br/>
-              <t>Y. Chen</t>, H. Li*, and M. Vogelsberger (2021), MNRAS, <t>502</t>, 6157-6169 <br/>
-              <a rel="noopener noreferrer" target="_blank" href="https://doi.org/10.1093/mnras/stab491" class="btn btn-outline-dark" role="button">Publisher</a> 
-              <a rel="noopener noreferrer" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.6157C/abstract" class="btn btn-outline-dark" role="button">ADS</a> 
-              <a rel="noopener noreferrer" target="_blank" href="https://arxiv.org/abs/2006.00004" class="btn btn-outline-dark" role="button">arXiv</a>
+              Veiga, Maria Han; <t>Meng, Xi</t>; Gnedin, Oleg Y.; Gnedin, Nickolay Y.; Huan, Xun (2021), MNRAS submitted <br/>
+              <a rel="noopener noreferrer" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2021arXiv210709082V/abstract" class="btn btn-outline-dark" role="button">ADS</a> 
+              <a rel="noopener noreferrer" target="_blank" href="https://arxiv.org/abs/2107.09082" class="btn btn-outline-dark" role="button">arXiv</a>
               <br/>
             </p>
             <p>
-              *Corresponding author
+              "Evolution of disc thickness in simulated high-redshift galaxies"
+              <br/>
+              <t>Meng, Xi</t>; Gnedin, Oleg Y. (2021), MNRAS, <t>502</t>, 1433-1440 <br/>
+              <a rel="noopener noreferrer" target="_blank" href="https://doi.org/10.1093/mnras/stab088" class="btn btn-outline-dark" role="button">Publisher</a> 
+              <a rel="noopener noreferrer" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.1433M/abstract" class="btn btn-outline-dark" role="button">ADS</a> 
+              <a rel="noopener noreferrer" target="_blank" href="https://arxiv.org/abs/2006.10642" class="btn btn-outline-dark" role="button">arXiv</a>
+              <br/>
+            </p>
+            <p>
+              "Origin of giant stellar clumps in high-redshift galaxies"
+              <br/>
+              <t>Meng, Xi</t>; Gnedin, Oleg Y. (2020), MNRAS, <t>494</t>, 1263-1275 <br/>
+              <a rel="noopener noreferrer" target="_blank" href="https://doi.org/10.1093/mnras/staa776" class="btn btn-outline-dark" role="button">Publisher</a> 
+              <a rel="noopener noreferrer" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.1263M/abstract" class="btn btn-outline-dark" role="button">ADS</a> 
+              <a rel="noopener noreferrer" target="_blank" href="https://arxiv.org/abs/1910.03443" class="btn btn-outline-dark" role="button">arXiv</a>
+              <br/>
+            </p>
+            <p>
+              "Structure and stability of high-redshift galaxies in cosmological simulations"
+              <br/>
+              <t>Meng, Xi</t>; Fnedin, Oleg Y.; Li, Hui (2019), MNRAS, <t>486</t>, 1574-1589 <br/>
+              <a rel="noopener noreferrer" target="_blank" href="https://doi.org/10.1093/mnras/stz925" class="btn btn-outline-dark" role="button">Publisher</a> 
+              <a rel="noopener noreferrer" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.1574M/abstract" class="btn btn-outline-dark" role="button">ADS</a> 
+              <a rel="noopener noreferrer" target="_blank" href="https://arxiv.org/abs/1810.06647" class="btn btn-outline-dark" role="button">arXiv</a>
+              <br/>
+            </p>
+            <p>
+              "Star Cluster Formation in Cosmological Simulations. I. Properties of Young Clusters"
+              <br/>
+              Li, Hui; Gnedin, Oleg Y.; Gnedin, Nickolay Y.; <t>Meng, Xi</t>; Semenov, Vadim A.; Kravtsov, Andrey V. (2017), ApJ, 834, 69 <br/>
+              <a rel="noopener noreferrer" target="_blank" href="https://iopscience.iop.org/article/10.3847/1538-4357/834/1/69" class="btn btn-outline-dark" role="button">Publisher</a> 
+              <a rel="noopener noreferrer" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2017ApJ...834...69L/abstract" class="btn btn-outline-dark" role="button">ADS</a> 
+              <a rel="noopener noreferrer" target="_blank" href="https://arxiv.org/abs/1608.03244" class="btn btn-outline-dark" role="button">arXiv</a>
+              <br/>
             </p>
           </div>
         </div>
@@ -136,7 +168,7 @@
         <div class="row">
           <div class="col-lg-4">
             <h3>Email</h3>
-            <p>ybchen (at) umich.edu</p>
+            <p>xim (at) umich.edu</p>
           </div>
           <div class="col-lg-4">
             <h3>Adress</h3>
@@ -145,10 +177,9 @@
           <div class="col-lg-4">
             <h3>Sitemap</h3>
             <p>
-              <a rel="noopener noreferrer" target="_blank" href="https://orcid.org/0000-0002-5970-2563"><img border="0" src="figs/orcid.svg" width=18 style="margin-bottom: 0px"></a>&nbsp;
-              <a rel="noopener noreferrer" target="_blank" href="https://github.com/EnthalpyBill"><img border="0" src="figs/github.svg" width=18 style="margin-bottom: 0px"></a>&nbsp;
-              <a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/yingtianchen"><img border="0" src="figs/linkedin.svg" width=18 style="margin-bottom: 0px"></a>&nbsp;
-              <a rel="noopener noreferrer" target="_blank" href="https://www.zhihu.com/people/enthalpy-4-88"><img border="0" src="figs/zhihu.svg" width=18 style="margin-bottom: 0px"></a>
+              <a rel="noopener noreferrer" target="_blank" href="https://orcid.org/0000-0002-8276-4164"><img border="0" src="figs/orcid.svg" width=18 style="margin-bottom: 0px"></a>&nbsp;
+              <a rel="noopener noreferrer" target="_blank" href="https://github.com/mxmintaka"><img border="0" src="figs/github.svg" width=18 style="margin-bottom: 0px"></a>&nbsp;
+              <a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/yingtianchen"><img border="0" src="figs/linkedin.svg" width=18 style="margin-bottom: 0px"></a>
             </p>
           </div>
         </div>
@@ -159,7 +190,7 @@
     <div id="copyrights">
       <div class="container">
         <div class="col-md-8 offset-md-2">
-          <p>&copy; 2020-<span id="year"></span> Bill Chen</p>
+          <p>&copy; 2022-<span id="year"></span> Xi Meng</p>
         </div>
       </div>
     </div>
