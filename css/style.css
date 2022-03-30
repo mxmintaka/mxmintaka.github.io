@@ -29,13 +29,13 @@ t {
 }
 
 a {
-  color: #33ccff;
+  color: #86cecb;
   text-decoration: none;
   word-wrap: break-word;
 }
 
 a:hover, a:focus {
-  color: #33ccff;
+  color: #86cecb;
   text-decoration: underline;
 }
 
@@ -72,7 +72,7 @@ li {
 }
 
 .navbar-nav .nav-link:hover, .navbar-nav .nav-link.active {
-  background: #33ccff;
+  background: #86cecb;
 }
 
 .navbar a:hover, a:focus {
@@ -123,7 +123,7 @@ li {
 }
 
 #intro a {
-  color: #33ccff;
+  color: #86cecb;
 }
 
 #intro a.btn {
