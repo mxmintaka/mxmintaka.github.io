@@ -29,13 +29,13 @@ t {
 }
 
 a {
-  color: #33ccff;
+  color: #39c5bb;
   text-decoration: none;
   word-wrap: break-word;
 }
 
 a:hover, a:focus {
-  color: #33ccff;
+  color: #39c5bb;
   text-decoration: underline;
 }
 
@@ -72,7 +72,7 @@ li {
 }
 
 .navbar-nav .nav-link:hover, .navbar-nav .nav-link.active {
-  background: #33ccff;
+  background: #39c5bb;
 }
 
 .navbar a:hover, a:focus {
@@ -100,7 +100,7 @@ li {
 }
 
 #headerwrap h1 {
-  color: white;
+  color: black;
 }
 
 #headerwrap h3 {
@@ -123,7 +123,7 @@ li {
 }
 
 #intro a {
-  color: #33ccff;
+  color: #39c5bb;
 }
 
 #intro a.btn {
