@@ -107,56 +107,24 @@
           </div>
           <div class="col-lg-8">
             <p>
-              "Tidal disruption of star clusters in galaxy formation simulations"
+              "Modeling the kinematics of globular cluster systems"
               <br/>
-              <t>Meng, Xi</t>; Gnedin, Oleg Y. (2022), MNRAS submitted <br/>
-              <a rel="noopener noreferrer" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2022arXiv220109826M/abstract" class="btn btn-outline-dark" role="button">ADS</a> 
-              <a rel="noopener noreferrer" target="_blank" href="https://arxiv.org/abs/2201.09826" class="btn btn-outline-dark" role="button">arXiv</a>
-              <br/>
-            </p>
-            <p>
-              "Reconstruction of the Density Power Spectrum from Quasar Spectra using Machine Learning"
-              <br/>
-              Veiga, Maria Han; <t>Meng, Xi</t>; Gnedin, Oleg Y.; Gnedin, Nickolay Y.; Huan, Xun (2021), MNRAS submitted <br/>
-              <a rel="noopener noreferrer" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2021arXiv210709082V/abstract" class="btn btn-outline-dark" role="button">ADS</a> 
-              <a rel="noopener noreferrer" target="_blank" href="https://arxiv.org/abs/2107.09082" class="btn btn-outline-dark" role="button">arXiv</a>
+              <t>Y. Chen</t>* and O. Y. Gnedin (2022), MNRAS submitted <br/>
+              <a rel="noopener noreferrer" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2022arXiv220300599C/abstract" class="btn btn-outline-dark" role="button">ADS</a> 
+              <a rel="noopener noreferrer" target="_blank" href="https://arxiv.org/abs/2203.00599" class="btn btn-outline-dark" role="button">arXiv</a>
               <br/>
             </p>
             <p>
-              "Evolution of disc thickness in simulated high-redshift galaxies"
+              "Effects of initial density profiles on massive star cluster formation in giant molecular clouds"
               <br/>
-              <t>Meng, Xi</t>; Gnedin, Oleg Y. (2021), MNRAS, <t>502</t>, 1433-1440 <br/>
-              <a rel="noopener noreferrer" target="_blank" href="https://doi.org/10.1093/mnras/stab088" class="btn btn-outline-dark" role="button">Publisher</a> 
-              <a rel="noopener noreferrer" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.1433M/abstract" class="btn btn-outline-dark" role="button">ADS</a> 
-              <a rel="noopener noreferrer" target="_blank" href="https://arxiv.org/abs/2006.10642" class="btn btn-outline-dark" role="button">arXiv</a>
-              <br/>
-            </p>
-            <p>
-              "Origin of giant stellar clumps in high-redshift galaxies"
-              <br/>
-              <t>Meng, Xi</t>; Gnedin, Oleg Y. (2020), MNRAS, <t>494</t>, 1263-1275 <br/>
-              <a rel="noopener noreferrer" target="_blank" href="https://doi.org/10.1093/mnras/staa776" class="btn btn-outline-dark" role="button">Publisher</a> 
-              <a rel="noopener noreferrer" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.1263M/abstract" class="btn btn-outline-dark" role="button">ADS</a> 
-              <a rel="noopener noreferrer" target="_blank" href="https://arxiv.org/abs/1910.03443" class="btn btn-outline-dark" role="button">arXiv</a>
+              <t>Y. Chen</t>, H. Li*, and M. Vogelsberger (2021), MNRAS, <t>502</t>, 6157-6169 <br/>
+              <a rel="noopener noreferrer" target="_blank" href="https://doi.org/10.1093/mnras/stab491" class="btn btn-outline-dark" role="button">Publisher</a> 
+              <a rel="noopener noreferrer" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.6157C/abstract" class="btn btn-outline-dark" role="button">ADS</a> 
+              <a rel="noopener noreferrer" target="_blank" href="https://arxiv.org/abs/2006.00004" class="btn btn-outline-dark" role="button">arXiv</a>
               <br/>
             </p>
             <p>
-              "Structure and stability of high-redshift galaxies in cosmological simulations"
-              <br/>
-              <t>Meng, Xi</t>; Gnedin, Oleg Y.; Li, Hui (2019), MNRAS, <t>486</t>, 1574-1589 <br/>
-              <a rel="noopener noreferrer" target="_blank" href="https://doi.org/10.1093/mnras/stz925" class="btn btn-outline-dark" role="button">Publisher</a> 
-              <a rel="noopener noreferrer" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.1574M/abstract" class="btn btn-outline-dark" role="button">ADS</a> 
-              <a rel="noopener noreferrer" target="_blank" href="https://arxiv.org/abs/1810.06647" class="btn btn-outline-dark" role="button">arXiv</a>
-              <br/>
-            </p>
-            <p>
-              "Star Cluster Formation in Cosmological Simulations. I. Properties of Young Clusters"
-              <br/>
-              Li, Hui; Gnedin, Oleg Y.; Gnedin, Nickolay Y.; <t>Meng, Xi</t>; Semenov, Vadim A.; Kravtsov, Andrey V. (2017), ApJ, 834, 69 <br/>
-              <a rel="noopener noreferrer" target="_blank" href="https://iopscience.iop.org/article/10.3847/1538-4357/834/1/69" class="btn btn-outline-dark" role="button">Publisher</a> 
-              <a rel="noopener noreferrer" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2017ApJ...834...69L/abstract" class="btn btn-outline-dark" role="button">ADS</a> 
-              <a rel="noopener noreferrer" target="_blank" href="https://arxiv.org/abs/1608.03244" class="btn btn-outline-dark" role="button">arXiv</a>
-              <br/>
+              *通讯作者
             </p>
           </div>
         </div>
@@ -168,7 +136,7 @@
         <div class="row">
           <div class="col-lg-4">
             <h3>电子邮箱</h3>
-            <p>xim (at) umich.edu</p>
+            <p>ybchen (at) umich.edu</p>
           </div>
           <div class="col-lg-4">
             <h3>联系地址</h3>
@@ -180,6 +148,7 @@
               <a rel="noopener noreferrer" target="_blank" href="https://orcid.org/0000-0002-5970-2563"><img border="0" src="figs/orcid.svg" width=18 style="margin-bottom: 0px"></a>&nbsp;
               <a rel="noopener noreferrer" target="_blank" href="https://github.com/EnthalpyBill"><img border="0" src="figs/github.svg" width=18 style="margin-bottom: 0px"></a>&nbsp;
               <a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/yingtianchen"><img border="0" src="figs/linkedin.svg" width=18 style="margin-bottom: 0px"></a>&nbsp;
+              <a rel="noopener noreferrer" target="_blank" href="https://www.zhihu.com/people/enthalpy-4-88"><img border="0" src="figs/zhihu.svg" width=18 style="margin-bottom: 0px"></a>
             </p>
           </div>
         </div>
@@ -190,7 +159,7 @@
     <div id="copyrights">
       <div class="container">
         <div class="col-md-8 offset-md-2">
-          <p>&copy; 2022-<span id="year"></span> Xi Meng</p>
+          <p>&copy; 2020-<span id="year"></span> Bill Chen</p>
         </div>
       </div>
     </div>

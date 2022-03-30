@@ -29,13 +29,13 @@ t {
 }
 
 a {
-  color: #cb3c6f;
+  color: #66ccff;
   text-decoration: none;
   word-wrap: break-word;
 }
 
 a:hover, a:focus {
-  color: #cb3c6f;
+  color: #66ccff;
   text-decoration: underline;
 }
 
@@ -72,7 +72,7 @@ li {
 }
 
 .navbar-nav .nav-link:hover, .navbar-nav .nav-link.active {
-  background: #cb3c6f;
+  background: #66ccff;
 }
 
 .navbar a:hover, a:focus {
