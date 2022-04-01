@@ -8,8 +8,8 @@
     <meta name="author" content="Xi Meng">
     <title>Hompage Template</title>
 
-    <link href="figs/icon.svg" rel="icon">
-    <link href="figs/icon.svg" rel="apple-touch-icon">
+    <link href="figs/generated.svg" rel="icon">
+    <link href="figs/generated.svg" rel="apple-touch-icon">
 
     <link href="bootstrap/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -69,7 +69,7 @@
             </p>
             <p>
               <t>Sep. 2013 - Jul. 2017</t><br/>
-              - B.S. in Physics (with honours)<br/>
+              - B.S. in Physics<br/>
               @ <a rel="noopener noreferrer" target="_blank" href="http://astro.pku.edu.cn/">Peking University School of Physics, Department of Astronomy</a>, Beijing, China 
             </p>
             <p>

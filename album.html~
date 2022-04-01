@@ -8,8 +8,8 @@
     <meta name="author" content="Xi Meng">
     <title>Hompage Template</title>
 
-    <link href="figs/icon.svg" rel="icon">
-    <link href="figs/icon.svg" rel="apple-touch-icon">
+    <link href="figs/generated.svg" rel="icon">
+    <link href="figs/generated.svg" rel="apple-touch-icon">
 
     <link href="bootstrap/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -144,7 +144,7 @@
     <div id="copyrights">
       <div class="container">
         <div class="col-md-8 offset-md-2">
-          <p>&copy; 2020-<span id="year"></span> Bill Chen</p>
+          <p>&copy; 2022-<span id="year"></span> Xi Meng</p>
         </div>
       </div>
     </div>
