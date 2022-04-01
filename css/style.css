@@ -235,7 +235,9 @@ li {
 }
 
 .carousel-caption h3 {
-  color: white;
+  color: black;
+  text-align: left;
+  font-size: 15px;
 }
 
 #album p {
