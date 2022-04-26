@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="">
     <meta name="description" content="">
-    <meta name="author" content="Bill Chen">
-    <title>Hompage Template</title>
+    <meta name="author" content="Xi Meng">
+    <title>Hompage</title>
 
     <link href="figs/generated.svg" rel="icon">
     <link href="figs/generated.svg" rel="apple-touch-icon">
@@ -19,7 +19,7 @@
 
     <nav class="navbar fixed-top navbar-expand-md">
       <div class="container">
-        <a class="navbar-brand" href="index.html">Bill's research</a>
+        <a class="navbar-brand" href="index.html">Research</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <img src="figs/list.svg" alt="menu" width="30px">
         </button>
@@ -40,10 +40,10 @@
 
           <div class="card">
             <div class="row">
-              <h3 class="card-title">Modelling the kinematics of globular clusters</h3>
+              <h3 class="card-title">Tidal disruption of star clusters</h3>
               <div class="col-lg-7">
                 <p class="card-text">
-                  I update the globular cluster formation model developed by <a rel="noopener noreferrer" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.488.5409C/abstract">Choksi & Gnedin (2019)</a> by adding positional and kinematic information to the modeled GCs. See <a rel="noopener noreferrer" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2022arXiv220300599C/abstract">Chen and Gnedin (2022</a>) for more details.
+                  We investigate the evolution of the tidal field experienced by massive star clusters using cosmological simulations of Milky Way-sized galaxies. See <a rel="noopener noreferrer" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2022arXiv220109826M/abstract">Meng and Gnedin (2022</a>) for more details.
                 </p>
                 <p class="card-text">
                   <small class="text-muted">
